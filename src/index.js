@@ -24,7 +24,7 @@ const FORMATS = {
   year: 'yyyy'
 };
 
-export const adapter = {
+export const dateFnsAdapter = {
   _id: 'date-fns', // DEBUG
 
   formats: function() {
