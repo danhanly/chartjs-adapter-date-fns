@@ -110,4 +110,4 @@ export const adapter = {
     default: return time;
     }
   }
-});
+};
